@@ -7,7 +7,7 @@
     <a href="https://discord.gg/8hr9CRqmfc"> <img src="https://badgen.net/discord/members/8hr9CRqmfc" alt="iTz Club Discord"/> </a>
 </div>
 
-Animated-Avatar is a tool written in **[JavaScript](https://www.javascript.com/)**. It sets Animated Avatar for your Discord Bots!
+Animated-Avatar is a tool written in **[JavaScript](https://www.javascript.com/)**. It sets an Animated Avatar for your Discord Bots!
 ## 🚧 Requirements
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. **[Node.js 16.9.0](https://nodejs.org/en/download/)** or higher
@@ -16,7 +16,7 @@ Set your Bot Token in [line 3](https://github.com/iTzArshia/Animated-Avatar/blob
 
 Put your Avatar File in the folder then change [line 4](https://github.com/iTzArshia/Animated-Avatar/blob/main/index.js#L4) and set your Path.
 
-Then run `node index.js` in terminal to start the tool.
+Then run `node index.js` in the terminal to start the tool.
 ## ❤️ Donations
 You can **[support](https://reymit.ir/itz_arshia)** me by donating if you like the project!
 > Only available for Iranians :(
